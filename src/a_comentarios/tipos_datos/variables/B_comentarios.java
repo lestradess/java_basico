@@ -1,4 +1,4 @@
-package a_variables.tiposdatos;
+package a_comentarios.tipos_datos.variables;
 
 /**
  * Clase de prueba para crear un programa básico en java

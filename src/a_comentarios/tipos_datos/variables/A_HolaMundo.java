@@ -1,4 +1,4 @@
-package a_variables.tiposdatos;
+package a_comentarios.tipos_datos.variables;
 
 public class A_HolaMundo {
 
