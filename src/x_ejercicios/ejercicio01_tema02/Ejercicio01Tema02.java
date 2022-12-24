@@ -1,6 +1,6 @@
 package x_ejercicios.ejercicio01_tema02;
 
-public class Ejercicio01_tema02 {
+public class Ejercicio01Tema02 {
     public static void main(String[] args) {
         int numero = 1;
         long numeroLong = 123456789;
